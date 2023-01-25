@@ -1,0 +1,43 @@
+
+2022-10-21 00:15:54.761 [main] INFO   - Введена команда: add
+2022-10-21 00:15:54.764 [main] ERROR  - Index 1 out of bounds for length 1
+2022-10-21 00:16:04.998 [main] INFO   - Введена команда: fk
+2022-10-21 00:16:04.998 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:18:36.814 [main] INFO   - Введена команда: add
+2022-10-21 00:18:36.816 [main] ERROR  - add - неверный формат ввода.
+Корректный формат: add Василий Петров vasily.petrov@gmail.com +79215637722
+2022-10-21 00:18:41.138 [main] INFO   - Введена команда: hi
+2022-10-21 00:18:41.139 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:18:47.730 [main] INFO   - Введена команда: help
+2022-10-21 00:20:17.638 [main] INFO   - Введена команда: add
+2022-10-21 00:20:17.639 [main] ERROR  - add - неверный формат ввода.	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:21:10.447 [main] INFO   - Введена команда: add
+2022-10-21 00:21:10.449 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:21:30.016 [main] INFO   - Введена команда: remove
+2022-10-21 00:21:30.016 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:21:33.086 [main] INFO   - Введена команда: list
+2022-10-21 00:24:44.620 [main] INFO   - Введена команда: add петя петров kejrn@iji.uj +79876543212
+2022-10-21 00:24:48.239 [main] INFO   - Введена команда: list
+2022-10-21 00:25:49.702 [main] INFO   - Введена команда: count
+2022-10-21 00:26:00.564 [main] INFO   - Введена команда: remove петя петров
+2022-10-21 00:26:03.552 [main] INFO   - Введена команда: list
+2022-10-21 00:26:05.978 [main] INFO   - Введена команда: count

@@ -1,0 +1,28 @@
+
+2022-10-21 00:15:54.764 [main] ERROR  - Index 1 out of bounds for length 1
+2022-10-21 00:16:04.998 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:18:36.816 [main] ERROR  - add - неверный формат ввода.
+Корректный формат: add Василий Петров vasily.petrov@gmail.com +79215637722
+2022-10-21 00:18:41.139 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:20:17.639 [main] ERROR  - add - неверный формат ввода.	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:21:10.449 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
+2022-10-21 00:21:30.016 [main] ERROR  - Wrong command! Available command examples: 
+	add Василий Петров vasily.petrov@gmail.com +79215637722
+	list
+	count
+	remove Василий Петров
