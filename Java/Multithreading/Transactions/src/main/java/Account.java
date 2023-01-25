@@ -1,0 +1,33 @@
+import java.util.List;
+
+public class Account {
+
+    private long money;
+    private String accNumber;
+
+    public Account(String accNumber, long money, Bank bank) {
+        this.accNumber = accNumber;
+        this.money = money;
+        bank.getAccounts().put(accNumber, this);
+    }
+
+    public long getMoney() {
+        return money;
+    }
+
+    public void setMoney(long money) {
+        this.money = money;
+    }
+
+    public String getAccNumber() {
+        return accNumber;
+    }
+
+    public void setAccNumber(String accNumber) {
+        this.accNumber = accNumber;
+    }
+
+    public int compareTo(Account account) {
+        return this.getAccNumber().compareTo(account.getAccNumber());
+    }
+}
